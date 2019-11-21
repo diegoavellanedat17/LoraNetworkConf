@@ -13,3 +13,6 @@ Los siguientes son dispositivos para usar como Nodos LoRa:
 - RFM95
 - SX1276
 - LoPy
+
+## LoRa Gateway | MultiTech Conduit 
+Info del Gateway LoRa configurable [ MultiTech Conduit ](https://www.multitech.com/brands/multiconnect-conduit)
