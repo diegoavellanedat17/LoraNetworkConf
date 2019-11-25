@@ -16,3 +16,17 @@ Los siguientes son dispositivos para usar como Nodos LoRa:
 
 ## LoRa Gateway | MultiTech Conduit 
 Info del Gateway LoRa configurable [ MultiTech Conduit ](https://www.multitech.com/brands/multiconnect-conduit)
+
+## Pruebas LoPy Pysense
+las sigueintes corresponden a las pruebas del LoPy y Pysense, tanto las conexiones del hardware como el desarrollo del Firmware para obtener los datos de cada uno de los sensores.
+
+Las siguientes corresponden a las características de la parjeta Pysense:
+- Sensor de luz ambiental
+- Sensor de presión barométrica
+- Sensor de humedad
+- Acelerómetro de 3 ejes y 12 bits
+- Sensor de temperatura
+- Puerto USB con acceso en serie
+- Cargador de batería LiPo
+- Compatibilidad con tarjeta microSD
+- Operación de ultra baja potencia (~ 1uA en DeepSleep)
