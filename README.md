@@ -35,3 +35,4 @@ Los siguientes son los pines de la tarjeta Pysense :
 
 ![alt Pysense](https://github.com/diegoavellanedat17/LoraNetworkConf/blob/master/Pysense.PNG)
 
+Para cargar el código en la tarjeta se hace usando el editos de código VScode con la extensión PyMaker, en la carpeta LoPyTest hay una serie de ejemplos de scripts que ya han sido cargados y probados en la tarjeta.
