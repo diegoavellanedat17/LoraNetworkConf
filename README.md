@@ -30,3 +30,8 @@ Las siguientes corresponden a las características de la parjeta Pysense:
 - Cargador de batería LiPo
 - Compatibilidad con tarjeta microSD
 - Operación de ultra baja potencia (~ 1uA en DeepSleep)
+
+Los siguientes son los pines de la tarjeta Pysense :
+
+![alt Pysense](https://github.com/diegoavellanedat17/LoraNetworkConf/blob/master/Pysense.PNG)
+
