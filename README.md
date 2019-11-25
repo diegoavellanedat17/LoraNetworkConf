@@ -36,3 +36,12 @@ Los siguientes son los pines de la tarjeta Pysense :
 ![alt Pysense](https://github.com/diegoavellanedat17/LoraNetworkConf/blob/master/Pysense.PNG)
 
 Para cargar el código en la tarjeta se hace usando el editos de código VScode con la extensión PyMaker, en la carpeta LoPyTest hay una serie de ejemplos de scripts que ya han sido cargados y probados en la tarjeta.
+
+Como ha sido nombrado previamente, Pysense posee diferentes sensores, los cuales se probaron de la siguiente manera: 
+
+1. Debe hacerse un firmware update para correr los script, el siguiente link muestra un paso a paso bastante descriptivo 
+[ Firmware update ](https://core-electronics.com.au/tutorials/pycom-pysense-pytrack-firmware-update.html).
+2. Una vez se actualiza el Firmware, en el siguiente [repositorio de Github](https://github.com/pycom/pycom-libraries), la carpeta de pysense tiene un script para hacer una prueba de todos los sensores que tiene la tarjeta. 
+3. La siguiente imagen muestra el resultado de todos los sensores de la tarjeta funcionando luego de cargar el script y hacer ciertas modificaciones a algunas lineas de código, el codigo usado, se encuentra en la carpeta pysense.
+![alt pysense test results ](https://github.com/diegoavellanedat17/LoraNetworkConf/blob/master/SensorsTest.PNG)
+
