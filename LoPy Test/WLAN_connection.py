@@ -5,8 +5,8 @@ wlan = WLAN(mode=WLAN.STA)
 
 nets = wlan.scan()
 for net in nets:
-    if net.ssid == 'FOXO':
+    if net.ssid == 'ssid':
         print('Network found!')
-        wlan.connect(net.ssid, auth=(net.sec, 'jugodenaranja07'), timeout=5000)
+        wlan.connect(net.ssid, auth=(net.sec, 'pass'), timeout=5000)
         print('WLAN connection succeeded!')
         break
